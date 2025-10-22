@@ -28,6 +28,4 @@ escrow_ignore {
   'config.lua',
   'README.md',
   'LICENSE',
-  'client.lua',
-  'server.lua'
 }
