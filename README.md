@@ -1,6 +1,6 @@
 # aliano_pedscale V2 - Player Scaling Height FiveM Script
 
-![Bannière du script aliano_pedscale](https://i.ibb.co/mC50SYn5/aliano-player-scaling-miniature.png)
+![Bannière du script aliano_pedscale](https://i.ibb.co/zHhWQFPB/aliano-player-scaling-miniature-2.png)
 
 A modern standalone FiveM resource that provides a sleek, user-friendly interface for adjusting character height. With real-time scaling, persistent saves, and full admin controls, this resource offers a seamless experience for both players and server administrators.
 
@@ -32,7 +32,7 @@ The script features a sophisticated synchronization system that ensures:
 
 ## Full Preview
 
-- [Video](https://youtu.be/kon0bYE5lAo)
+- [Video](https://www.youtube.com/watch?v=CwOg6gDq-sg)
 
 ## Links
 
