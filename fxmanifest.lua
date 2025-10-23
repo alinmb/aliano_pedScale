@@ -12,7 +12,7 @@ game 'gta5'
 author 'Aliano'
 name 'aliano_pedScale'
 description 'A modern standalone FiveM resource that provides a sleek, user-friendly interface for adjusting character height.'
-version '1.0.0'
+version '2.0.0'
 
 shared_script 'config.lua'
 client_script 'client.lua'
